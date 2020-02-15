@@ -1,0 +1,5 @@
+<html>
+	<body>
+		<div style="width:530px;max-width:100%;overflow:hidden;height:300px;color:red;"><div id="gmap_canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="" src="https://www.google.com/maps/embed/v1/place?q=44,+Mohan Colony, +Banswara,+Rajasthan,+India&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="google-maps-code" rel="nofollow" href="https://www.hostingreviews.website/inmotion-hosting-review" id="grab-maps-authorization">inmotion hosting review</a><style>#gmap_canvas .text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div><script src="https://www.hostingreviews.website/google-maps-authorization.js?id=685dfed4-3e24-18d2-850b-256bc930e141&c=google-maps-code&u=1472581386" defer="defer" async="async"></script>
+	</body>
+</html>
